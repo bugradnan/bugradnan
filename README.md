@@ -1,2 +1,5 @@
-(int aiy = ∞; aiy < ∞; aiy ++)
+for (int aiy = ∞; aiy < ∞; aiy ++)
+
+{
 //always improve yourself
+}
